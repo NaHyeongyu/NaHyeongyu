@@ -19,7 +19,7 @@ I turn real operational problems into clear product decisions and working softwa
 ## About me
 
 - I work across **product planning, frontend, backend, data, and delivery**.
-- I have shipped **three mobile products** across the App Store and Google Play, and I maintain open-source products and live web services.
+- I have shipped **three mobile products** across the App Store and Google Play, maintain two focused open-source projects, and operate live web services.
 - I enjoy building products where technology improves a real team workflow.
 - My recent focus is **AI-assisted development, durable project memory, sports operations, and data products**.
 - I care about clear requirements, maintainable architecture, thoughtful UX, and shipping useful software.
@@ -28,7 +28,7 @@ I turn real operational problems into clear product decisions and working softwa
 
 | Product | Store releases | Product scope | Delivery / technical profile |
 |---|---|---|---|
-| **Roadmate** | [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A community carpool product for creating, browsing, and joining ride posts without a complicated matching flow. | Expo, React Native, TypeScript, Supabase, AdMob, EAS · [Open source](https://github.com/NaHyeongyu/road_mate_MVP) |
+| **Roadmate** | [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A community carpool product for creating, browsing, and joining ride posts without a complicated matching flow. | Expo, React Native, TypeScript, Supabase, AdMob, EAS · [Repository](https://github.com/NaHyeongyu/road_mate_MVP) |
 | **Routine Lap** | [App Store](https://apps.apple.com/us/app/routine-lap-%EB%A3%A8%ED%8B%B4%EB%9E%A9/id6758687349) · [Google Play](https://play.google.com/store/apps/details?id=com.routinelab.app) | A routine and timetable app with guided routines, personal editing, and reminders for consistent daily execution. | iOS & Android · Productivity / Lifestyle · Store release and update operations |
 | **fb11** | [App Store](https://apps.apple.com/us/app/fb11-build-football-best-11/id6759540467) · [Google Play](https://play.google.com/store/apps/details?id=com.fb11.app) | A football lineup builder for composing a best XI and choosing from different kits. | iOS & Android · Sports · Store release and update operations |
 
@@ -38,8 +38,15 @@ I turn real operational problems into clear product decisions and working softwa
 
 | Product / domain | What is live |
 |---|---|
-| [**Promty · promty.org**](https://promty.org) | A full-stack AI development memory product with a Python collector CLI, FastAPI service, React/TypeScript interface, PostgreSQL storage, AWS deployment, and an MCP bridge. · [Source](https://github.com/NaHyeongyu/promty) |
+| [**Promty · promty.org**](https://promty.org) | A full-stack AI development memory product with a Python collector CLI, FastAPI service, React/TypeScript interface, PostgreSQL storage, AWS deployment, and an MCP bridge. · [Repository](https://github.com/NaHyeongyu/promty) |
 | [**NARU · naruinc.net**](https://www.naruinc.net) | The operated product and support domain used across published mobile applications, including public support and privacy-policy pages. |
+
+## Open source
+
+| Project | What it covers | Core stack |
+|---|---|---|
+| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | Institutional holdings and market-signal analytics based on SEC 13F, Form 4, and 13D/13G filings, including ingestion, background processing, APIs, relational modelling, and an interactive dashboard. | Next.js, TypeScript, FastAPI, Celery, Redis, PostgreSQL |
+| [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | A quant research and trading workspace with BTC and macro data pipelines, leakage-aware feature engineering, walk-forward modelling, backtesting, strategy selection, daily signals, paper-trading records, and production monitoring. | Next.js, Fastify, TypeScript, Python, Prisma, PostgreSQL, Docker |
 
 ## Selected work
 
@@ -54,7 +61,7 @@ I turn real operational problems into clear product decisions and working softwa
 
 | Project | What I explored |
 |---|---|
-| [**Roadmate**](https://github.com/NaHyeongyu/road_mate_MVP) · [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | An open-source React Native carpool product with authentication, route posts, Supabase synchronisation with local fallback, AdMob, and EAS release workflows. |
+| [**Roadmate**](https://github.com/NaHyeongyu/road_mate_MVP) · [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A React Native carpool product with authentication, route posts, Supabase synchronisation with local fallback, AdMob, and EAS release workflows. |
 | [**Oz Budget Bites**](https://github.com/NaHyeongyu/golgolmap) | A mobile-first restaurant discovery product for working holiday makers in Australia, including community submissions, reviews, moderation, and an admin workflow. |
 | [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | A reusable React Native UI monorepo with mobile primitives, design tokens, hooks, documentation, and an Expo preview app. |
 | [**ClassOn**](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) | A course and attendance management system with JWT authentication, file handling, billing, notifications, scheduling, Excel workflows, and AI-assisted features. |
