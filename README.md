@@ -47,6 +47,7 @@ ClassOn is temporarily paused while I review the legal, operational, and cost re
 | [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | Data pipelines, walk-forward modelling, backtesting, and monitoring | Python, Next.js, Fastify, Prisma, PostgreSQL |
 | [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | SEC filing ingestion and portfolio signal analysis | FastAPI, Celery, Redis, PostgreSQL, Next.js |
 | [**BASE11**](https://github.com/NaHyeongyu/base11) | Youth football team planning and operations | Flutter, Next.js, FastAPI, PostgreSQL, Terraform |
+| [**ClassOn**](https://www.myclasson.com) | Course, attendance, reporting, and academy operations | Java 17, Spring Boot, React, TypeScript, MySQL, AWS |
 | [**Football Data System**](https://github.com/NaHyeongyu/Football-data-mvp) | Player, match, GPS, injury, and RAG-assisted data management | Next.js, FastAPI, PostgreSQL, pgvector |
 | [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | Reusable React Native components and design tokens | React Native, TypeScript, Expo, Builder Bob |
 
@@ -57,7 +58,7 @@ ClassOn is temporarily paused while I review the legal, operational, and cost re
 
 ## Main stack
 
-`TypeScript` · `React` · `React Native` · `Next.js` · `Flutter` · `Python` · `FastAPI` · `PostgreSQL` · `Supabase` · `Docker` · `AWS`
+`TypeScript` · `React` · `React Native` · `Next.js` · `Flutter` · `Java` · `Spring Boot` · `Python` · `FastAPI` · `PostgreSQL` · `MySQL` · `Supabase` · `Docker` · `AWS`
 
 ## Contact
 
