@@ -2,129 +2,64 @@
 
 # Hyeongyu Na
 
-### Product-minded Full-Stack Developer · AI Builder
+Full-stack developer and product planner based in Sydney.
 
-I turn real operational problems into clear product decisions and working software.
+I work across product planning, development, QA, deployment, and service operations.
 
-[![Portfolio](https://img.shields.io/badge/Live_Product-promty.org-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://promty.org)
-[![App Store](https://img.shields.io/badge/App_Store-3_releases-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/hyeongyu-na/id1872281624)
-[![Google Play](https://img.shields.io/badge/Google_Play-2_releases-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=NaHyeongyu)
-[![Email](https://img.shields.io/badge/Email-nahg0525%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahg0525@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Sydney%2C_Australia-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/NaHyeongyu)
+[Portfolio](https://promty.org) · [App Store](https://apps.apple.com/us/developer/hyeongyu-na/id1872281624) · [Google Play](https://play.google.com/store/apps/developer?id=NaHyeongyu) · [LinkedIn](https://www.linkedin.com/in/hyeongyu-na-12370a3a3/)
 
 </div>
 
----
+## About
 
-## About me
+- Experience in product planning, frontend and backend development, QA, and operations
+- Released mobile apps on the App Store and Google Play
+- Interested in practical ways to use AI and automation to reduce repetitive work
+- Currently open to software development, product, and QA roles in Sydney
 
-- I work across **product planning, frontend, backend, data, and delivery**.
-- I have shipped **three mobile products** across the App Store and Google Play, maintain two focused open-source projects, and operate live web services.
-- I enjoy building products where technology improves a real team workflow.
-- My recent focus is **AI-assisted development, durable project memory, sports operations, and data products**.
-- I care about clear requirements, maintainable architecture, thoughtful UX, and shipping useful software.
+## Released apps
 
-## Shipped mobile products
+| App | Description | Links |
+|---|---|---|
+| **Roadmate** | Community carpool app for creating and joining ride posts | [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) · [Repository](https://github.com/NaHyeongyu/road_mate_MVP) |
+| **Routine Lap** | Routine and timetable app with reminders and personal editing | [App Store](https://apps.apple.com/us/app/routine-lap-%EB%A3%A8%ED%8B%B4%EB%9E%A9/id6758687349) · [Google Play](https://play.google.com/store/apps/details?id=com.routinelab.app) |
+| **fb11** | Football lineup builder for creating a best XI | [App Store](https://apps.apple.com/us/app/fb11-build-football-best-11/id6759540467) · [Google Play](https://play.google.com/store/apps/details?id=com.fb11.app) |
 
-| Product | Store releases | Product scope | Delivery / technical profile |
-|---|---|---|---|
-| **Roadmate** | [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A community carpool product for creating, browsing, and joining ride posts without a complicated matching flow. | Expo, React Native, TypeScript, Supabase, AdMob, EAS · [Repository](https://github.com/NaHyeongyu/road_mate_MVP) |
-| **Routine Lap** | [App Store](https://apps.apple.com/us/app/routine-lap-%EB%A3%A8%ED%8B%B4%EB%9E%A9/id6758687349) · [Google Play](https://play.google.com/store/apps/details?id=com.routinelab.app) | A routine and timetable app with guided routines, personal editing, and reminders for consistent daily execution. | iOS & Android · Productivity / Lifestyle · Store release and update operations |
-| **fb11** | [App Store](https://apps.apple.com/us/app/fb11-build-football-best-11/id6759540467) · [Google Play](https://play.google.com/store/apps/details?id=com.fb11.app) | A football lineup builder for composing a best XI and choosing from different kits. | iOS & Android · Sports · Store release and update operations |
+[My To-do](https://github.com/NaHyeongyu/My-To-do), a SwiftUI routine planner, is currently waiting for App Review.
 
-> **In review:** [One - My To-Do](https://github.com/NaHyeongyu/My-To-do) — a native SwiftUI and SwiftData routine planner. iOS 1.0 is currently waiting for App Review, so it is not counted as a published release yet.
+## Live services
 
-## Live products & operated domains
+| Project | Description | Links |
+|---|---|---|
+| **Promty** | Project memory for AI-assisted software development | [Live](https://promty.org) · [Repository](https://github.com/NaHyeongyu/promty) |
+| **NARU** | Product and support site for published apps | [Live](https://www.naruinc.net) |
+| **ClassOn** | Course and attendance management system | [Live](https://www.myclasson.com) · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) |
+| **Reservation System** | Reservation service built with Next.js and Supabase | [Live](https://jimooninsik.vercel.app) · [Repository](https://github.com/NaHyeongyu/Reservation-system) |
 
-| Product / domain | What is live |
-|---|---|
-| [**Promty · promty.org**](https://promty.org) | A full-stack AI development memory product with a Python collector CLI, FastAPI service, React/TypeScript interface, PostgreSQL storage, AWS deployment, and an MCP bridge. · [Repository](https://github.com/NaHyeongyu/promty) |
-| [**NARU · naruinc.net**](https://www.naruinc.net) | The operated product and support domain used across published mobile applications, including public support and privacy-policy pages. |
-| [**ClassOn · myclasson.com**](https://www.myclasson.com) | A course and attendance management system. Development is temporarily paused after evaluating the legal, compliance, operational-cost, and payment risks. · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) |
-| [**Reservation System**](https://jimooninsik.vercel.app) | A Next.js and Supabase reservation operations service with public booking, admin authentication, branch and party management, capacity controls, and database migrations. · [Repository](https://github.com/NaHyeongyu/Reservation-system) |
+ClassOn is temporarily paused while I review the legal, operational, and cost requirements of its payment features.
+
+## Selected technical work
+
+| Project | Main focus | Stack |
+|---|---|---|
+| [**Promty**](https://github.com/NaHyeongyu/promty) | Reviewable project memory, collector CLI, and MCP integration | Python, FastAPI, React, PostgreSQL, AWS |
+| [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | Data pipelines, walk-forward modelling, backtesting, and monitoring | Python, Next.js, Fastify, Prisma, PostgreSQL |
+| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | SEC filing ingestion and portfolio signal analysis | FastAPI, Celery, Redis, PostgreSQL, Next.js |
+| [**BASE11**](https://github.com/NaHyeongyu/base11) | Youth football team planning and operations | Flutter, Next.js, FastAPI, PostgreSQL, Terraform |
+| [**Football Data System**](https://github.com/NaHyeongyu/Football-data-mvp) | Player, match, GPS, injury, and RAG-assisted data management | Next.js, FastAPI, PostgreSQL, pgvector |
+| [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | Reusable React Native components and design tokens | React Native, TypeScript, Expo, Builder Bob |
 
 ## Open source
 
-| Project | What it covers | Core stack |
-|---|---|---|
-| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | Institutional holdings and market-signal analytics based on SEC 13F, Form 4, and 13D/13G filings, including ingestion, background processing, APIs, relational modelling, and an interactive dashboard. | Next.js, TypeScript, FastAPI, Celery, Redis, PostgreSQL |
-| [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | A quant research and trading workspace with BTC and macro data pipelines, leakage-aware feature engineering, walk-forward modelling, backtesting, strategy selection, daily signals, paper-trading records, and production monitoring. | Next.js, Fastify, TypeScript, Python, Prisma, PostgreSQL, Docker |
+- [SEC Portfolio Signals](https://github.com/NaHyeongyu/SEC-Report)
+- [Bitcoin Price Prediction](https://github.com/NaHyeongyu/BItcoin-price-prediction)
 
-## Selected work
+## Main stack
 
-| Project | What it does | Core stack |
-|---|---|---|
-| [**Promty**](https://github.com/NaHyeongyu/promty) · [Live](https://promty.org) | Durable, reviewable project memory for AI-assisted software development, with a collector CLI and read-only MCP bridge. | Python, FastAPI, React, TypeScript, PostgreSQL, AWS |
-| [**BASE11**](https://github.com/NaHyeongyu/base11) | A youth football team operations platform connecting plans, staff collaboration, player goals, and execution data. | Flutter, Next.js, FastAPI, PostgreSQL, Docker, Terraform |
-| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | A dashboard for institutional holdings and market signals derived from SEC 13F, Form 4, and 13D/13G filings. | Next.js, TypeScript, FastAPI, Celery, Redis, PostgreSQL |
-| [**Football Data System**](https://github.com/NaHyeongyu/Football-data-mvp) | A player, match, physical, injury, reporting, and RAG assistant workspace for football operations. | Next.js, FastAPI, PostgreSQL, pgvector, Python |
+`TypeScript` · `React` · `React Native` · `Next.js` · `Flutter` · `Python` · `FastAPI` · `PostgreSQL` · `Supabase` · `Docker` · `AWS`
 
-## More projects
+## Contact
 
-| Project | What I explored |
-|---|---|
-| [**Roadmate**](https://github.com/NaHyeongyu/road_mate_MVP) · [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A React Native carpool product with authentication, route posts, Supabase synchronisation with local fallback, AdMob, and EAS release workflows. |
-| [**Oz Budget Bites**](https://github.com/NaHyeongyu/golgolmap) | A mobile-first restaurant discovery product for working holiday makers in Australia, including community submissions, reviews, moderation, and an admin workflow. |
-| [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | A reusable React Native UI monorepo with mobile primitives, design tokens, hooks, documentation, and an Expo preview app. |
-| **ClassOn** · [Live](https://www.myclasson.com) · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) | A course and attendance management system with JWT authentication, file handling, billing, notifications, scheduling, Excel workflows, and AI-assisted features. **Status:** Temporarily paused after evaluating the legal and compliance requirements, operational costs, and risks associated with implementing payment functionality. |
-| [**Reservation System**](https://github.com/NaHyeongyu/Reservation-system) · [Live](https://jimooninsik.vercel.app) | A Next.js and Supabase reservation operations service with public booking flows, branch and party management, admin authentication, capacity controls, and database migrations. |
-| [**My To-do**](https://github.com/NaHyeongyu/My-To-do) | A native iOS routine planner with daily, weekly, monthly, history, timetable, completion tracking, dashboard, and streak views. |
-| [**Smart Warehouse Delay Prediction**](https://github.com/NaHyeongyu/Dacon_hackathon_warehouse) | A machine-learning workflow for preparing logistics data, comparing delay-prediction experiments, and producing competition submissions. |
-
-## Toolbox
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
-## How I work
-
-```text
-Understand the user and the operation
-              ↓
-Define the smallest useful product
-              ↓
-Design, build, test, and measure
-              ↓
-Document the reasoning and improve
-```
-
-## Find me
-
-- **Location:** [Sydney, Australia](https://www.google.com/maps/search/?api=1&query=Sydney%2C+Australia)
-- **GitHub:** [github.com/NaHyeongyu](https://github.com/NaHyeongyu)
-- **Live product:** [promty.org](https://promty.org)
-- **Product & app support:** [naruinc.net](https://www.naruinc.net)
-- **App Store:** [Hyeongyu Na](https://apps.apple.com/us/developer/hyeongyu-na/id1872281624)
-- **Google Play:** [NaHyeongyu](https://play.google.com/store/apps/developer?id=NaHyeongyu)
-- **Email:** [nahg0525@gmail.com](mailto:nahg0525@gmail.com)
-
-<div align="center">
-
-### Open to product, software engineering, and QA opportunities in Sydney
-
-If you are building a useful product and value people who can connect product thinking with implementation, feel free to reach out.
-
-</div>
+- Sydney, Australia
+- [LinkedIn](https://www.linkedin.com/in/hyeongyu-na-12370a3a3/)
+- [nahg0525@gmail.com](mailto:nahg0525@gmail.com)
