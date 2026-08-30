@@ -2,7 +2,7 @@
 
 # Hyeongyu Na
 
-Full-stack developer and product planner based in Sydney.
+Full-stack developer with product planning and QA experience, based in Sydney.
 
 I work across product planning, development, QA, deployment, and service operations.
 
@@ -12,7 +12,7 @@ I work across product planning, development, QA, deployment, and service operati
 
 ## About
 
-- Experience in product planning, frontend and backend development, QA, and operations
+- Experience across frontend and backend development, product planning, QA, and operations
 - Released mobile apps on the App Store and Google Play
 - Use AI-assisted development mainly through the OpenAI ecosystem, including Codex, APIs, and MCP
 - Keep up with new tools and frameworks, then test and adopt them when they solve a real product or engineering problem
