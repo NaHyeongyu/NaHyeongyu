@@ -40,6 +40,8 @@ I turn real operational problems into clear product decisions and working softwa
 |---|---|
 | [**Promty · promty.org**](https://promty.org) | A full-stack AI development memory product with a Python collector CLI, FastAPI service, React/TypeScript interface, PostgreSQL storage, AWS deployment, and an MCP bridge. · [Repository](https://github.com/NaHyeongyu/promty) |
 | [**NARU · naruinc.net**](https://www.naruinc.net) | The operated product and support domain used across published mobile applications, including public support and privacy-policy pages. |
+| [**ClassOn · myclasson.com**](https://www.myclasson.com) | A course and attendance management system. Development is temporarily paused after evaluating the legal, compliance, operational-cost, and payment risks. · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) |
+| [**Reservation System**](https://jimooninsik.vercel.app) | A Next.js and Supabase reservation operations service with public booking, admin authentication, branch and party management, capacity controls, and database migrations. · [Repository](https://github.com/NaHyeongyu/Reservation-system) |
 
 ## Open source
 
@@ -64,8 +66,8 @@ I turn real operational problems into clear product decisions and working softwa
 | [**Roadmate**](https://github.com/NaHyeongyu/road_mate_MVP) · [App Store](https://apps.apple.com/us/app/roadmate/id6762180437) | A React Native carpool product with authentication, route posts, Supabase synchronisation with local fallback, AdMob, and EAS release workflows. |
 | [**Oz Budget Bites**](https://github.com/NaHyeongyu/golgolmap) | A mobile-first restaurant discovery product for working holiday makers in Australia, including community submissions, reviews, moderation, and an admin workflow. |
 | [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | A reusable React Native UI monorepo with mobile primitives, design tokens, hooks, documentation, and an Expo preview app. |
-| **ClassOn** · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) | A course and attendance management system with JWT authentication, file handling, billing, notifications, scheduling, Excel workflows, and AI-assisted features. **Status:** Temporarily paused after evaluating the legal and compliance requirements, operational costs, and risks associated with implementing payment functionality. |
-| [**Reservation System**](https://github.com/NaHyeongyu/Reservation-system) | A Next.js and Supabase reservation operations service with public booking flows, branch and party management, admin authentication, capacity controls, and database migrations. |
+| **ClassOn** · [Live](https://www.myclasson.com) · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) | A course and attendance management system with JWT authentication, file handling, billing, notifications, scheduling, Excel workflows, and AI-assisted features. **Status:** Temporarily paused after evaluating the legal and compliance requirements, operational costs, and risks associated with implementing payment functionality. |
+| [**Reservation System**](https://github.com/NaHyeongyu/Reservation-system) · [Live](https://jimooninsik.vercel.app) | A Next.js and Supabase reservation operations service with public booking flows, branch and party management, admin authentication, capacity controls, and database migrations. |
 | [**My To-do**](https://github.com/NaHyeongyu/My-To-do) | A native iOS routine planner with daily, weekly, monthly, history, timetable, completion tracking, dashboard, and streak views. |
 | [**Smart Warehouse Delay Prediction**](https://github.com/NaHyeongyu/Dacon_hackathon_warehouse) | A machine-learning workflow for preparing logistics data, comparing delay-prediction experiments, and producing competition submissions. |
 
