@@ -14,7 +14,8 @@ I work across product planning, development, QA, deployment, and service operati
 
 - Experience in product planning, frontend and backend development, QA, and operations
 - Released mobile apps on the App Store and Google Play
-- Interested in practical ways to use AI and automation to reduce repetitive work
+- Use AI-assisted development mainly through the OpenAI ecosystem, including Codex, APIs, and MCP
+- Keep up with new tools and frameworks, then test and adopt them when they solve a real product or engineering problem
 - Currently open to software development, product, and QA roles in Sydney
 
 ## Released apps
