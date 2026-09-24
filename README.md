@@ -20,6 +20,16 @@ I turn workflows and product requirements into clear system structures, then hel
 
 I am currently open to product, systems, implementation, and software roles where planning and hands-on delivery overlap.
 
+## How I solve problems
+
+I start by understanding the current workflow: who uses it, where work slows down, which rules matter, and what data moves between people or systems. From there, I separate the underlying problem from the first requested feature, define the requirements and structure, then prototype or build the smallest useful solution. I test it against real scenarios and refine it based on feedback.
+
+- At **IGP**, translated business and user needs into requirements, user flows, storyboards, service policies, and frontend improvements for **NextPlayer** and the **QBase** admin system.
+- Planned **ERP workflows for Geumhwa Purification** by connecting operational steps, required data, permissions, and hand-offs.
+- Through **NARU**, handled product planning, implementation, release, and service operation as one continuous feedback loop across released mobile apps and web services.
+- Built **ClassOn** and the **Reservation System** by turning operational rules into permissions, database constraints, and usable management interfaces.
+- Use AI and automation where they remove repetitive work, while keeping outputs reviewable and easy to hand over.
+
 ## Released apps
 
 | App | Description | Links |
