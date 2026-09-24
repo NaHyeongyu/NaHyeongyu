@@ -2,21 +2,23 @@
 
 # Hyeongyu Na
 
-Full-stack developer with product planning and QA experience, based in Sydney.
+Product and systems designer who can take an idea through to working software, based in Sydney.
 
-I work across product planning, development, QA, deployment, and service operations.
+I turn workflows and product requirements into clear system structures, then help build, test, deploy, and operate them.
 
 [Portfolio](https://promty.org) · [App Store](https://apps.apple.com/us/developer/hyeongyu-na/id1872281624) · [Google Play](https://play.google.com/store/apps/developer?id=NaHyeongyu) · [LinkedIn](https://www.linkedin.com/in/hyeongyu-na-12370a3a3/)
 
 </div>
 
-## About
+## What I do
 
-- Experience across frontend and backend development, product planning, QA, and operations
-- Released mobile apps on the App Store and Google Play
-- Use AI-assisted development mainly through the OpenAI ecosystem, including Codex, APIs, and MCP
-- Keep up with new tools and frameworks, then test and adopt them when they solve a real product or engineering problem
-- Currently open to software development, product, and QA roles in Sydney
+- Map users, workflows, business rules, data, and operational constraints before choosing a solution
+- Turn that understanding into requirements, user flows, system structures, and practical delivery plans
+- Contribute directly across frontend, backend, mobile, QA, deployment, and service operations
+- Use OpenAI APIs, Codex, and MCP to automate repetitive work and shorten development and decision cycles
+- Prefer maintainable systems and clear handover over unnecessary technical complexity
+
+I am currently open to product, systems, implementation, and software roles where planning and hands-on delivery overlap.
 
 ## Released apps
 
@@ -32,24 +34,24 @@ I work across product planning, development, QA, deployment, and service operati
 
 | Project | Description | Links |
 |---|---|---|
-| **Promty** | Project memory for AI-assisted software development | [Live](https://promty.org) · [Repository](https://github.com/NaHyeongyu/promty) |
+| **Promty** | Project-context and memory system for reviewable AI-assisted development | [Live](https://promty.org) · [Repository](https://github.com/NaHyeongyu/promty) |
 | **NARU** | Product and support site for published apps | [Live](https://www.naruinc.net) |
-| **ClassOn** | Course and attendance management system | [Live](https://www.myclasson.com) · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) |
-| **Reservation System** | Reservation service built with Next.js and Supabase | [Live](https://jimooninsik.vercel.app) · [Repository](https://github.com/NaHyeongyu/Reservation-system) |
+| **ClassOn** | Academy operations system connecting students, classes, attendance, payments, schedules, files, and reporting | [Live](https://www.myclasson.com) · [Frontend](https://github.com/NaHyeongyu/classOn_frontend) · [Backend](https://github.com/NaHyeongyu/classOn_backend) |
+| **Reservation System** | Booking operations system built around capacity, duplicate-booking, access, and status rules | [Live](https://jimooninsik.vercel.app) · [Repository](https://github.com/NaHyeongyu/Reservation-system) |
 
 ClassOn is temporarily paused while I review the legal, operational, and cost requirements of its payment features.
 
-## Selected technical work
+## Selected systems and technical work
 
-| Project | Main focus | Stack |
+| Project | System focus | Implementation |
 |---|---|---|
-| [**Promty**](https://github.com/NaHyeongyu/promty) | Reviewable project memory, collector CLI, and MCP integration | Python, FastAPI, React, PostgreSQL, AWS |
-| [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | Data pipelines, walk-forward modelling, backtesting, and monitoring | Python, Next.js, Fastify, Prisma, PostgreSQL |
-| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | SEC filing ingestion and portfolio signal analysis | FastAPI, Celery, Redis, PostgreSQL, Next.js |
-| [**BASE11**](https://github.com/NaHyeongyu/base11) | Youth football team planning and operations | Flutter, Next.js, FastAPI, PostgreSQL, Terraform |
-| [**ClassOn**](https://www.myclasson.com) | Course, attendance, reporting, and academy operations | Java 17, Spring Boot, React, TypeScript, MySQL, AWS |
-| [**Football Data System**](https://github.com/NaHyeongyu/Football-data-mvp) | Player, match, GPS, injury, and RAG-assisted data management | Next.js, FastAPI, PostgreSQL, pgvector |
-| [**Naru RN UI**](https://github.com/NaHyeongyu/Naru-RN-UI) | Reusable React Native components and design tokens | React Native, TypeScript, Expo, Builder Bob |
+| [**Promty**](https://github.com/NaHyeongyu/promty) | Defined how project context is collected, stored, reviewed, and exposed to AI tools | Python, FastAPI, React, PostgreSQL, AWS, MCP |
+| [**ClassOn**](https://www.myclasson.com) | Modelled connected academy workflows across enrolment, classes, attendance, payments, schedules, and reporting | Java 17, Spring Boot, React, TypeScript, MySQL, AWS |
+| [**Reservation System**](https://github.com/NaHyeongyu/Reservation-system) | Translated capacity, duplicate-booking, access, and status rules into database constraints and operational screens | Next.js, TypeScript, Supabase, PostgreSQL |
+| [**Football Data System**](https://github.com/NaHyeongyu/Football-data-mvp) | Unified player, match, GPS, and injury data for structured and RAG-assisted exploration | Next.js, FastAPI, PostgreSQL, pgvector |
+| [**Bitcoin Price Prediction**](https://github.com/NaHyeongyu/BItcoin-price-prediction) | Designed a repeatable research workflow covering ingestion, walk-forward modelling, backtesting, and monitoring | Python, Next.js, Fastify, Prisma, PostgreSQL |
+| [**SEC Portfolio Signals**](https://github.com/NaHyeongyu/SEC-Report) | Structured SEC filing ingestion and portfolio-signal analysis as an asynchronous data workflow | FastAPI, Celery, Redis, PostgreSQL, Next.js |
+| [**BASE11**](https://github.com/NaHyeongyu/base11) | Connected youth football planning, team operations, and data management | Flutter, Next.js, FastAPI, PostgreSQL, Terraform |
 
 ## Open source
 
